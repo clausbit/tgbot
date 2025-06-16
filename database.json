@@ -1,0 +1,12 @@
+{
+    "admins": [],
+    "channels": [],
+    "offers": {},
+    "fallback_accounts": {},
+    "error_logs": [],
+    "stats": {
+        "copied_posts": 0,
+        "errors": 0
+    },
+    "offer_history": {}
+}
